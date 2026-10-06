@@ -1,4 +1,3 @@
-
 const nome = "Cassio"
 
-console.log(`Ola ${nome}`) 
+console.log(nome)
