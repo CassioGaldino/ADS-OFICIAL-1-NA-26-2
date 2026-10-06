@@ -1,4 +1,4 @@
 
 const nome = "Cassio"
 
-console.log(`Ola ${nome}`) dfdggfgfg
+console.log(`Ola ${nome}`) 
